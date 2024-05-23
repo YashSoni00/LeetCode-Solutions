@@ -17,7 +17,7 @@ public class TheNumberofBeautifulSubsets {
 
         int[] nums3 = {3, 4, 5, 6, 7, 8};
         int k3 = 2;
-        System.out.println(beautifulSubsets(nums3, k3)); // 36
+        System.out.println(beautifulSubsets(nums3, k3)); // 24
     }
 
     private static int beautifulSubsets(int[] nums, int k) {

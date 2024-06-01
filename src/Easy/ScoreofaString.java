@@ -1,5 +1,10 @@
 package Easy;
 
+// Leetcode: 3110
+// https://leetcode.com/problems/score-of-a-string/
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 public class ScoreofaString {
     public static void main(String[] args) {
         System.out.println(scoreOfString("(()(()))")); // 3
